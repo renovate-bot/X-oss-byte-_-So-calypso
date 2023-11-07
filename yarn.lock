@@ -36463,9 +36463,9 @@ testarmada-magellan@11.0.10:
   linkType: hard
 
 "ua-parser-js@npm:^0.7.18, ua-parser-js@npm:^0.7.22":
-  version: 0.7.22
-  resolution: "ua-parser-js@npm:0.7.22"
-  checksum: 4d4cf1e508e40b7cc28c86144df5dc1f1e65d27ec6916e155440f871a43aab7e9a98493d38298e06e1488b1195427fb3abaa2c00cc1b1c32bec1817b9e84c55f
+  version: 0.7.37
+  resolution: "ua-parser-js@npm:0.7.37"
+  checksum: 38295744f1771896a9158f427b10a6971e82e30bdcedb98bf871eb29987a517722ed1185a00e54b1dea5480920d131e374b92574851f29e3a753173b9c0f24d2
   languageName: node
   linkType: hard
 
