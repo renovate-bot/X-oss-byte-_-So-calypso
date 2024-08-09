@@ -28,7 +28,7 @@
 	"types": "dist/types",
 	"dependencies": {
 		"@wordpress/base-styles": "^4.0.4",
-		"classnames": "^2.3.1",
+		"classnames": "^2.5.1",
 		"gridicons": "^3.4.0",
 		"i18n-calypso": "workspace:^",
 		"lodash": "^4.17.21",
