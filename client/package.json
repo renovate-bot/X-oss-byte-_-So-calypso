@@ -121,7 +121,7 @@
 		"emoji-text": "^0.2.6",
 		"enzyme": "^3.11.0",
 		"express": "^4.17.1",
-		"express-async-handler": "^1.1.4",
+		"express-async-handler": "^1.2.0",
 		"express-useragent": "^1.0.15",
 		"fake-indexeddb": "^3.1.7",
 		"fast-json-stable-stringify": "^2.1.0",
