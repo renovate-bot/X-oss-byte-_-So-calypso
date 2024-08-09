@@ -23,7 +23,7 @@
 		"webpack": "^5.65.0"
 	},
 	"dependencies": {
-		"semver": "^7.0.0"
+		"semver": "^7.6.3"
 	},
 	"devDependencies": {
 		"@automattic/calypso-typescript-config": "workspace:^"

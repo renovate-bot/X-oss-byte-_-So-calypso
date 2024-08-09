@@ -52,7 +52,7 @@
 		"recursive-copy": "^2.0.10",
 		"sass": "^1.37.5",
 		"sass-loader": "^12.1.0",
-		"semver": "^7.3.2",
+		"semver": "^7.6.3",
 		"terser-webpack-plugin": "^5.2.4",
 		"thread-loader": "^3.0.4",
 		"typescript": "^4.5.5",
