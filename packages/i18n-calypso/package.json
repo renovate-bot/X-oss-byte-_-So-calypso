@@ -21,7 +21,7 @@
 		"@babel/runtime": "^7.16.7",
 		"@tannin/sprintf": "^1.1.0",
 		"@wordpress/compose": "^5.0.7",
-		"debug": "^4.3.3",
+		"debug": "^4.3.6",
 		"events": "^3.0.0",
 		"hash.js": "^1.1.5",
 		"lodash": "^4.17.21",

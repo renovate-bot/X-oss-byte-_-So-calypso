@@ -37,7 +37,7 @@
 	"dependencies": {
 		"@types/seed-random": "^2.2.1",
 		"crc32": "^0.2.2",
-		"debug": "^4.3.3",
+		"debug": "^4.3.6",
 		"seed-random": "^2.2.0"
 	},
 	"devDependencies": {

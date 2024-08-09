@@ -44,7 +44,7 @@
 		"@wordpress/data": "^6.1.5",
 		"@wordpress/i18n": "^4.2.4",
 		"@wordpress/react-i18n": "^3.0.4",
-		"debug": "^4.3.3",
+		"debug": "^4.3.6",
 		"i18n-calypso": "workspace:^",
 		"prop-types": "^15.7.2"
 	},

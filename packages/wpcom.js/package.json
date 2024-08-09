@@ -41,7 +41,7 @@
 		"./src/lib/util/fs.js": "./src/lib/util/fs-browser.js"
 	},
 	"dependencies": {
-		"debug": "^4.3.3",
+		"debug": "^4.3.6",
 		"qs": "^6.5.2"
 	},
 	"devDependencies": {
