@@ -22,7 +22,7 @@
 	},
 	"bugs": "https://github.com/Automattic/wp-calypso/issues",
 	"dependencies": {
-		"core-js": "^3.6.3",
+		"core-js": "^3.38.0",
 		"isomorphic-fetch": "^3.0.0"
 	},
 	"devDependencies": {
