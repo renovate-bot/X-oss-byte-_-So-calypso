@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "280d0086a47bdff2e7b05a86b8b86e29",
+    "content-hash": "c52393860f92b2fa1854d4ca6ba51aa5",
     "packages": [
         {
             "name": "automattic/jetpack-codesniffer",
@@ -662,16 +662,16 @@
         },
         {
             "name": "wp-phpunit/wp-phpunit",
-            "version": "5.5.3",
+            "version": "5.9.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-phpunit/wp-phpunit.git",
-                "reference": "763121e752594664c150643e05c991a0acf3800a"
+                "reference": "f9b5b3a44d3677c7d4803074d81ad3cd12b0eeea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-phpunit/wp-phpunit/zipball/763121e752594664c150643e05c991a0acf3800a",
-                "reference": "763121e752594664c150643e05c991a0acf3800a",
+                "url": "https://api.github.com/repos/wp-phpunit/wp-phpunit/zipball/f9b5b3a44d3677c7d4803074d81ad3cd12b0eeea",
+                "reference": "f9b5b3a44d3677c7d4803074d81ad3cd12b0eeea",
                 "shasum": ""
             },
             "type": "library",
@@ -706,7 +706,7 @@
                 "issues": "https://github.com/wp-phpunit/issues",
                 "source": "https://github.com/wp-phpunit/wp-phpunit"
             },
-            "time": "2020-09-02T15:53:50+00:00"
+            "time": "2022-08-30T21:14:52+00:00"
         }
     ],
     "packages-dev": [],
@@ -717,5 +717,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.6.0"
 }
