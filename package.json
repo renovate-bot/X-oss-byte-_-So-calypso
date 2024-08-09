@@ -224,7 +224,7 @@
 		"globby": "^10.0.2",
 		"gzip-size": "^6.0.0",
 		"html-loader": "^0.5.5",
-		"husky": "^7.0.4",
+		"husky": "^9.1.4",
 		"i18n-calypso": "workspace:^",
 		"i18n-calypso-cli": "workspace:^",
 		"ignore-loader": "^0.1.2",
@@ -289,7 +289,7 @@
 		"@wordpress/eslint-plugin": "^9.3.0",
 		"bunyan": "^1.8.15",
 		"eslint-nibble": "^8.0.0",
-		"husky": "^7.0.4"
+		"husky": "^9.1.4"
 	},
 	"resolutions": {
 		"@automattic/newspack-blocks/swiper@4.5.1": "patch:swiper@4.5.1#.patches/swiper@4.5.1.diff",
