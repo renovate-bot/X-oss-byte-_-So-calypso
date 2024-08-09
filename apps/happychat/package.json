@@ -32,7 +32,7 @@
 		"react-query": "^3.32.1",
 		"react-redux": "^7.2.6",
 		"redux": "^4.1.2",
-		"redux-thunk": "^2.3.0",
+		"redux-thunk": "^2.4.2",
 		"wpcom": "workspace:^",
 		"wpcom-proxy-request": "workspace:^"
 	},
