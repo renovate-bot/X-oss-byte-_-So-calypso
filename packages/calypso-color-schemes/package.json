@@ -30,7 +30,7 @@
 		"@automattic/calypso-typescript-config": "workspace:^",
 		"@automattic/color-studio": "2.5.0",
 		"postcss": "^8.4.5",
-		"postcss-custom-properties": "^11.0.0",
+		"postcss-custom-properties": "^14.0.0",
 		"sass": "^1.37.5"
 	}
 }

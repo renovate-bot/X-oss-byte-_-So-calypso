@@ -245,7 +245,7 @@
 		"photon": "workspace:^",
 		"postcss": "^8.4.5",
 		"postcss-cli": "^9.0.1",
-		"postcss-custom-properties": "^11.0.0",
+		"postcss-custom-properties": "^14.0.0",
 		"prettier": "npm:wp-prettier@2.2.1-beta-1",
 		"qs": "^6.9.1",
 		"react": "^17.0.2",
