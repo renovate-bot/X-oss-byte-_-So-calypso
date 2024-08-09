@@ -41,7 +41,7 @@
 		"@automattic/calypso-build": "workspace:^",
 		"@automattic/webpack-extensive-lodash-replacement-plugin": "workspace:^",
 		"@automattic/webpack-inline-constant-exports-plugin": "workspace:^",
-		"autoprefixer": "^10.2.5",
+		"autoprefixer": "^10.4.20",
 		"enzyme": "^3.11.0",
 		"html-webpack-plugin": "^5.0.0-beta.4",
 		"jest": "^27.2.4",

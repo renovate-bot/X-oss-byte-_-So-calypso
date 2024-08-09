@@ -27,7 +27,7 @@
 		"@automattic/calypso-color-schemes": "workspace:^",
 		"@automattic/calypso-polyfills": "workspace:^",
 		"@automattic/webpack-extensive-lodash-replacement-plugin": "workspace:^",
-		"autoprefixer": "^10.2.5",
+		"autoprefixer": "^10.4.20",
 		"calypso": "workspace:^",
 		"classnames": "^2.3.1",
 		"debug": "^4.3.3",
