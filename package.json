@@ -197,7 +197,7 @@
 		"chai": "^4.3.4",
 		"chalk": "^4.1.2",
 		"check-node-version": "^4.0.2",
-		"chroma-js": "^2.1.2",
+		"chroma-js": "^2.6.0",
 		"concurrently": "^5.1.0",
 		"config": "^3.3.6",
 		"core-js-bundle": "^3.6.4",
