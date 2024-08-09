@@ -47,6 +47,6 @@
 	"devDependencies": {
 		"@automattic/calypso-eslint-overrides": "workspace:^",
 		"@automattic/calypso-typescript-config": "workspace:^",
-		"chai": "^4.3.4"
+		"chai": "^5.1.1"
 	}
 }
