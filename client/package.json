@@ -158,7 +158,7 @@
 		"photon": "workspace:^",
 		"postcss": "^8.4.5",
 		"prismjs": "^1.26.0",
-		"prop-types": "^15.7.2",
+		"prop-types": "^15.8.1",
 		"qrcode.react": "^1.0.1",
 		"qs": "^6.9.1",
 		"react": "^17.0.2",
