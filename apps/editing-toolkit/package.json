@@ -53,7 +53,7 @@
 		"@automattic/format-currency": "workspace:^",
 		"@automattic/i18n-utils": "workspace:^",
 		"@automattic/launch": "workspace:^",
-		"@automattic/newspack-blocks": "^1.37.1",
+		"@automattic/newspack-blocks": "^1.75.6",
 		"@automattic/onboarding": "workspace:^",
 		"@automattic/page-pattern-modal": "workspace:^",
 		"@automattic/plans-grid": "workspace:^",
