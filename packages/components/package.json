@@ -29,7 +29,7 @@
 	"dependencies": {
 		"@wordpress/base-styles": "^4.0.4",
 		"classnames": "^2.3.1",
-		"gridicons": "^3.4.0",
+		"gridicons": "^3.4.2",
 		"i18n-calypso": "workspace:^",
 		"lodash": "^4.17.21",
 		"prop-types": "^15.7.2",
