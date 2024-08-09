@@ -55,7 +55,7 @@
 		"archiver": "^3.1.1",
 		"cross-env": "^7.0.3",
 		"electron-fetch": "^1.7.4",
-		"electron-updater": "^4.2.5",
+		"electron-updater": "^4.6.5",
 		"js-yaml": "^4.0.0",
 		"keytar": "^7.7.0",
 		"make-dir": "^3.1.0",
