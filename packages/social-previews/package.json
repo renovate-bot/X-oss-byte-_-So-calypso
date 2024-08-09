@@ -47,8 +47,8 @@
 	"devDependencies": {
 		"@automattic/calypso-typescript-config": "workspace:^",
 		"enzyme": "^3.11.0",
-		"react": "^17.0.2",
-		"react-dom": "^17.0.2"
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1"
 	},
 	"peerDependencies": {
 		"@wordpress/data": "^6.1.5",

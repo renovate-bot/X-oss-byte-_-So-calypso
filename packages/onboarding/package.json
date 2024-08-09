@@ -45,8 +45,8 @@
 		"@wordpress/base-styles": "^4.0.4",
 		"copyfiles": "^2.3.0",
 		"history": "^5.1.0",
-		"react": "^17.0.2",
-		"react-dom": "^17.0.2",
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1",
 		"redux": "^4.1.2",
 		"typescript": "^4.5.5"
 	},
