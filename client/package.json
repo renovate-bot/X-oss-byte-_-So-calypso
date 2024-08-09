@@ -90,7 +90,7 @@
 		"autosize": "^4.0.4",
 		"body-parser": "^1.19.0",
 		"browser-filesaver": "^1.1.1",
-		"browserslist-useragent": "^3.0.3",
+		"browserslist-useragent": "^3.1.4",
 		"bunyan": "^1.8.15",
 		"chai": "^4.3.4",
 		"chalk": "^4.1.2",
