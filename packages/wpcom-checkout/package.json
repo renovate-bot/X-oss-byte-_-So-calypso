@@ -40,7 +40,7 @@
 		"@automattic/composite-checkout": "workspace:^",
 		"@automattic/shopping-cart": "workspace:^",
 		"@emotion/styled": "^11.3.0",
-		"@stripe/stripe-js": "^1.17.1",
+		"@stripe/stripe-js": "^1.54.2",
 		"@wordpress/data": "^6.1.5",
 		"@wordpress/i18n": "^4.2.4",
 		"@wordpress/react-i18n": "^3.0.4",
