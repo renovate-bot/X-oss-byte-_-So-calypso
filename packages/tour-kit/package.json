@@ -44,7 +44,7 @@
 		"typescript": "^4.5.5"
 	},
 	"peerDependencies": {
-		"@wordpress/element": "^4.0.4"
+		"@wordpress/element": "^6.5.0"
 	},
 	"private": true
 }
