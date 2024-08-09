@@ -192,7 +192,7 @@ jobs:
 
   wp-desktop-assets:
     docker:
-      - image: circleci/node:12.16.2-browsers
+      - image: circleci/node:12.22.7-browsers
     <<: *desktop_defaults
     environment:
       VERSION: << pipeline.git.tag >>
