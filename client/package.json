@@ -23,7 +23,7 @@
 		"@automattic/calypso-products": "workspace:^",
 		"@automattic/calypso-stripe": "workspace:^",
 		"@automattic/calypso-url": "workspace:^",
-		"@automattic/color-studio": "2.5.0",
+		"@automattic/color-studio": "2.6.0",
 		"@automattic/components": "workspace:^",
 		"@automattic/composite-checkout": "workspace:^",
 		"@automattic/create-calypso-config": "workspace:^",
