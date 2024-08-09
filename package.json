@@ -199,7 +199,7 @@
 		"check-node-version": "^4.0.2",
 		"chroma-js": "^2.1.2",
 		"concurrently": "^5.1.0",
-		"config": "^3.3.6",
+		"config": "^3.3.12",
 		"core-js-bundle": "^3.6.4",
 		"css-loader": "^6.5.1",
 		"debug": "^4.3.3",
