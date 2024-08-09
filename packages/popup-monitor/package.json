@@ -36,6 +36,6 @@
 	},
 	"devDependencies": {
 		"@automattic/calypso-typescript-config": "workspace:^",
-		"chai": "^4.3.4"
+		"chai": "^4.5.0"
 	}
 }
