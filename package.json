@@ -189,7 +189,7 @@
 		"autoprefixer": "^10.2.5",
 		"babel-jest": "^27.3.1",
 		"babel-loader": "^8.2.3",
-		"backstopjs": "5.1.0",
+		"backstopjs": "5.4.4",
 		"browserslist": "^4.16.0",
 		"calypso": "workspace:^",
 		"calypso-codemods": "workspace:^",
