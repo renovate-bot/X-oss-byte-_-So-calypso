@@ -35,7 +35,7 @@
 		"lodash": "^4.17.21",
 		"redux": "^4.1.2",
 		"redux-thunk": "^2.3.0",
-		"tslib": "^2.3.0"
+		"tslib": "^2.6.3"
 	},
 	"devDependencies": {
 		"@automattic/calypso-typescript-config": "workspace:^",

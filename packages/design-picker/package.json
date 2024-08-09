@@ -38,7 +38,7 @@
 		"@wordpress/url": "^3.3.1",
 		"classnames": "^2.3.1",
 		"react-query": "^3.32.1",
-		"tslib": "^2.3.0",
+		"tslib": "^2.6.3",
 		"utility-types": "^3.10.0"
 	},
 	"devDependencies": {

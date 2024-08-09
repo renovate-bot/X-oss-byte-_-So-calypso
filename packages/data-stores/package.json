@@ -40,7 +40,7 @@
 		"i18n-calypso": "workspace:^",
 		"qs": "^6.9.1",
 		"redux": "^4.1.2",
-		"tslib": "^2.3.0",
+		"tslib": "^2.6.3",
 		"utility-types": "^3.10.0",
 		"validator": "^13.5.2"
 	},

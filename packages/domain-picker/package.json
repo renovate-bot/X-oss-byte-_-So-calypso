@@ -42,7 +42,7 @@
 		"@wordpress/react-i18n": "^3.0.4",
 		"classnames": "^2.3.1",
 		"lodash": "^4.17.21",
-		"tslib": "^2.3.0",
+		"tslib": "^2.6.3",
 		"use-debounce": "^3.1.0",
 		"uuid": "^8.3.2"
 	},

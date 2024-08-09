@@ -40,7 +40,7 @@
 		"classnames": "^2.3.1",
 		"debug": "^4.3.3",
 		"lodash": "^4.17.21",
-		"tslib": "^2.3.0",
+		"tslib": "^2.6.3",
 		"uuid": "^8.3.2"
 	},
 	"devDependencies": {
