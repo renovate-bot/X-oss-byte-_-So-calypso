@@ -2,6 +2,6 @@
 	"name": "automattic/wp-calypso",
 	"require": {
 		"wp-phpunit/wp-phpunit": "^5.4",
-		"automattic/jetpack-codesniffer": "^2.1"
+		"automattic/jetpack-codesniffer": "^2.8.0"
 	}
 }
