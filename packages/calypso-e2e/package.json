@@ -28,7 +28,7 @@
 		"@automattic/calypso-eslint-overrides": "workspace:^",
 		"@automattic/calypso-typescript-config": "workspace:^",
 		"@automattic/languages": "workspace:^",
-		"@jest/globals": "^27.3.1",
+		"@jest/globals": "^27.5.1",
 		"@types/config": "^0.0.41",
 		"@types/jest": "^27.4.0",
 		"@types/node": "^16.11.19",
