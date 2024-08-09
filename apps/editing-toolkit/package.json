@@ -63,7 +63,7 @@
 		"@automattic/whats-new": "workspace:^",
 		"@babel/core": "^7.16.7",
 		"@emotion/react": "^11.4.1",
-		"@popperjs/core": "^2.10.2",
+		"@popperjs/core": "^2.11.8",
 		"@sentry/browser": "^6.16.1",
 		"@sentry/tracing": "^6.16.1",
 		"@wordpress/a11y": "^3.2.4",
