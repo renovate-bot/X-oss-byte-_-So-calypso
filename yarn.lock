@@ -26339,9 +26339,9 @@ fsevents@~2.1.2:
   linkType: hard
 
 "moment@npm:>= 2.9.0, moment@npm:>=1.6.0, moment@npm:^2.19.3, moment@npm:^2.22.1, moment@npm:^2.26.0":
-  version: 2.27.0
-  resolution: "moment@npm:2.27.0"
-  checksum: ea5b2fd73c8ad9070fc82c21ccb6226f7556c27a6a305e64371a3d1223729e9f9e75da59c3114160f21f9181e74f6d245534093179825eb20bf0f40ec7495d92
+  version: 2.31.0
+  resolution: "moment@npm:2.31.0"
+  checksum: 3755b186b8ff62c565685ce69dde55bf46003c0329139be5c8dd7845cd567bfd7d02be3a13e379a25acb9e98f6b87136c4776745e440615a4f5ca8dd9a8815b9
   languageName: node
   linkType: hard
 
